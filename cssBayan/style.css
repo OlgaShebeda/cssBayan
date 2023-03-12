@@ -38,6 +38,11 @@ li{
     list-style: none;
 }
 
-.bayan input {
+input {
     display: none;
+}
+
+.bayan{
+    display: block;
+    margin: 0 auto;
 }

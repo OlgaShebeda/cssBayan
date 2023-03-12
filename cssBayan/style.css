@@ -37,14 +37,24 @@ a{
 li{
     list-style: none;
 }
+body {
+    max-width: 1920px;
+}
 
 .bayan{
-    max-width: 1920px;
+    max-width: 920px;
     width: 100%;
     margin: 0 auto;
+
 }
 
 .bayan input {
     display: none;
     width: 100%;
+}
+
+.tab-title{
+    font-size: 43px;
+    color: #2b2b31;
+    float: left;
 }
